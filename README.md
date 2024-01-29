@@ -94,9 +94,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
-Abrham Muche - [@TheGreenHacker](https://tm.com/Abrish-green) - Abrham365Muche@gmail.com
-
-Project Link: [https://github.com/Abrish-Green/Web-Loan-Management-System-with-.Net-Core](https://github.com/Abrish-Green/Web-Loan-Management-System-with-.Net-Core)
+ 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,4 +103,3 @@ Project Link: [https://github.com/Abrish-Green/Web-Loan-Management-System-with-.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Student of Addis Ababa University Facality of IT
